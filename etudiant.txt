@@ -1,0 +1,13 @@
+
+
+
+
+ voila les cordoner que vous avez enter d'etudiant 
+N_etudiants : 1 
+Nom : zakaria zakaria
+Prenom : rebibi rebibbi 
+Branche : dev info 
+Niveau_scolaire : 1ere annee
+Tel : 0625683588 
+Annee_scolaire : 2022 2023
+Date_naissance : 18 / 11 / 2002 

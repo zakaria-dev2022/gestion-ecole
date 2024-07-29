@@ -1,0 +1,68 @@
+
+ 		 voila les cordoner que vous avez enter d'etudiant 
+N_etudiants     : a Nom             : aPrenom          : a 
+Branche         : a 
+Niveau_scolaire : a
+Annee_scolaire  : a
+Moyenne General : 11.33
+ 		 voila les cordoner que vous avez enter d'etudiant 
+N_etudiants     : 1 
+Nom             : rebibi
+Prenom          : zakaria 
+Branche         : dev info 
+Niveau_scolaire : 1ere annee
+Annee_scolaire  : 2022 2023
+Moyenne General : 16.67
+ 		 voila les cordoner que vous avez enter d'etudiant 
+N_etudiants     : 1 
+Nom             : rebibi
+Prenom          : zakaaria 2 
+Branche         : dev di 
+Niveau_scolaire : 2eme annee
+Annee_scolaire  : 2022 2023
+Moyenne General : 10.00Mr(Mme).rebibi zakaaria 2 est admis : 
+ 		 voila les cordoner que vous avez enter d'etudiant 
+	N_etudiants     : 1 
+	Nom             : REBIBI ZAKARIA
+	Prenom          : ZAKARIA REBIBI  
+	Branche         : DEV INFO 
+	Niveau_scolaire : 1ERE ANNEE
+	Annee_scolaire  : 2002 2023
+	Moyenne General : 7.33
+	Mr(Mme).REBIBI ZAKARIA ZAKARIA REBIBI  est echec  
+ 		 voila les cordoner que vous avez enter d'etudiant 
+	N_etudiants     : 1 
+	Nom             : REBIBI ZAKA
+	Prenom          : ZAKARIA REB 
+	Branche         : DEV WEB 
+	Niveau_scolaire : 1ERE ANNEE
+	Annee_scolaire  : 2002 2023
+	Moyenne General : 15.25
+	Mr(Mme).REBIBI ZAKA ZAKARIA REB est admis  
+ 		 voila les cordoner que vous avez enter d'etudiant 
+	N_etudiants     : 1 
+	Nom             : ZAKA
+	Prenom          : REBIB 
+	Branche         : DEV INFO 
+	Niveau_scolaire : 1ERE ANNEE
+	Annee_scolaire  : 20022 22
+	Moyenne General : 20.00
+	Mr(Mme).ZAKA REBIB est admis  
+ 		 voila les cordoner que vous avez enter d'etudiant 
+	N_etudiants     : 1 
+	Nom             : zakaria rebibi
+	Prenom          : rebibi zakaria 
+	Branche         : dev info  
+	Niveau_scolaire : 1ere annee
+	Annee_scolaire  : 2022 2023
+	Moyenne General : 16.33
+	Mr(Mme).zakaria rebibi rebibi zakaria est admis  
+ 		 voila les cordoner que vous avez enter d'etudiant 
+	N_etudiants     : 1 
+	Nom             : zakaria 
+	Prenom          : rebibi 
+	Branche         : dev info 
+	Niveau_scolaire : 1ere annee
+	Annee_scolaire  : 2022 2023
+	Moyenne General : 18.67
+	Mr(Mme).zakaria  rebibi est admis  

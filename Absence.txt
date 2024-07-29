@@ -1,0 +1,8 @@
+
+ 		 voila les cordoner que vous avez enter d'etudiant 
+N_etudiants          : 1 
+Nom                  : zakaria rebibi 
+Prenom               : rebibi zakaria 
+Niveau_scolaire      : 1ere annee 
+Nom d'administrateur : zakaria 
+Date d'entrer        : 12 / 6 / 2002 

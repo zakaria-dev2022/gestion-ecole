@@ -1,0 +1,18 @@
+ voila les cordoner que vous avez enter de professeurN_professeur        : a Nom                 : aPrenom              : a Filier              : aTel                 : aSalle               : aAnnee_scolaire      : a voila les cordoner que vous avez enter de professeurN_professeur        : 3 Nom                 : REBIIIIIIPrenom              : ZZZZZZZZZZ Filier              : DEV INFOTel                 : 09876545678Salle               : 12Annee_scolaire      : 2022 2023 
+ 		voila les cordoner que vous avez enter de professeur
+	N_professeur        : 3 
+	Nom                 : ZZZZZZZZZZZ
+	Prenom              : RRRRRRRRRRRR 
+	Filier              : DDDDDDDDDDDD
+	Tel                 : 0000000000000
+	Salle               : 12
+	Annee_scolaire      : 2002 2023
+ 
+ 		voila les cordoner que vous avez enter de professeur
+	N_professeur        : 1 
+	Nom                 : rebibi zakaria
+	Prenom              : zakria rebibii 
+	Filier              : dev info
+	Tel                 : 0986567889
+	Salle               : 12
+	Annee_scolaire      : 2022 2023
